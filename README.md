@@ -1,5 +1,6 @@
 <h2 align=center>Contract-Deployment-On-Eclipse-Testnet</h1l2>
-
+## Persiapan
+Faucet sepolia minimal 0.05 kirim ke address yang di hasilkan saat deploy
 ## Installation
 - Open [Github Codespace](https://github.com/codespaces)
 - Paste kode di terminal untuk deploy smart contract Eclipse Testnet
